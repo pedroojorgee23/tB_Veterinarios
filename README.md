@@ -1,2 +1,2 @@
 # tB_Veterinarios
-Base de dados de um veterinário
+app para interagir com uma base de dados
